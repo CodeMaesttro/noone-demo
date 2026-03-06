@@ -1,0 +1,10 @@
+# User data files (contains sensitive information)
+auth/usernames.dat
+auth/ip.txt
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
